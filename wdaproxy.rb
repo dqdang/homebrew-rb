@@ -2,7 +2,6 @@ class Wdaproxy < Formula
   desc ""
   homepage ""
   version "0.1.3"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/openatx/wdaproxy/releases/download/0.1.3/wdaproxy_0.1.3_darwin_amd64.tar.gz"
